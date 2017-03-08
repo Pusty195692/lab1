@@ -27,4 +27,9 @@ public class App {
     {
         System.out.print("Witam w mojej metodzie !!!");
     }
+	
+	public void kazMetoda()
+	{
+		 System.out.print("3");
+	}
 }
