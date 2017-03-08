@@ -13,5 +13,6 @@ public class App
 	public void adaMethod()
 	{
 		System.out.println("konflikty, wszędzie konflikty");
+		System.out.println("próbuję zrobić konflikt");
 	}
 }
