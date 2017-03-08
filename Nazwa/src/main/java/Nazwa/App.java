@@ -18,8 +18,13 @@ public class App {
         System.out.println("konflikty, wszędzie konflikty");
 		System.out.println("próbuję zrobić konflikt");
     }
-    
+  
     public void zjawMethod(int i) {
         System.out.println(i++ + ++i);
+    }
+
+    public void rafalMetoda()
+    {
+        System.out.print("Witam w mojej metodzie !!!");
     }
 }
