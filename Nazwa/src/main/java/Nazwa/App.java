@@ -14,4 +14,8 @@ public class App
 	{
 		System.out.println("konflikty, wszędzie konflikty");
 	}
+	public void rafalMetoda()
+    {
+        System.out.print("Witam w mojej metodzie !!!");
+    }
 }
