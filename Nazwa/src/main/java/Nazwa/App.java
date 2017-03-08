@@ -17,4 +17,8 @@ public class App {
     public void adaMethod() {
         System.out.println("konflikty, wszędzie konflikty");
     }
+    
+    public void zjawMethod(int i) {
+        System.out.println(i++ + ++i);
+    }
 }
