@@ -17,4 +17,10 @@ public class App {
     public void adaMethod() {
         System.out.println("konflikty, wszędzie konflikty");
     }
+
+	public void rafalMetoda()
+    {
+        System.out.print("Witam w mojej metodzie !!!");
+    }
+
 }
